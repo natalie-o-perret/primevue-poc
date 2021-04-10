@@ -1,3 +1,4 @@
+import "vite/dynamic-import-polyfill"
 import { createApp } from "vue";
 import "primeflex/primeflex.scss";
 import 'primevue/resources/themes/mdc-light-deeppurple/theme.css';

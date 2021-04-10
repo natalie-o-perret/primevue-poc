@@ -7,10 +7,7 @@ export default defineConfig({
   server: {
     open: true,
   },
-  build: {
-    cssCodeSplit: false,
-    target: 'esnext',
-  },
+  build: {},
   resolve: {
     alias: [
       { find: '@', replacement: '/src' },
