@@ -74,3 +74,7 @@ index.e5d45779.js:1 Failed to load resource: net::ERR_FAILED
 index.6f411dd0.css:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
 /C:/favicon.ico:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
 ```
+
+# Issue Resolution
+
+See my answer on SO: https://stackoverflow.com/a/67031599/4636721
